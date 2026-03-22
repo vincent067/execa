@@ -25,6 +25,13 @@ Running commands in parallel. Shows concurrent execution with `Promise.allSettle
 node examples/parallel-tasks.js
 ```
 
+### security-scanning.js
+Security scanning utilities. Demonstrates integrating security tools like npm audit, semgrep, and gitleaks.
+
+```bash
+node examples/security-scanning.js
+```
+
 ### stream-processing.js
 Output filtering with transforms. Demonstrates using Node.js Transform streams to process command output.
 
